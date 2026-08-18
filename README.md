@@ -56,7 +56,6 @@ Vite prints the local development URL in the terminal.
     │   ├── hooks/useCounter.js    # Viewport-triggered count-up animation hook
     │   └── components/            # Page sections and reusable UI components
     ├── pitch.html                 # Standalone proposal document
-    └── script.js                  # Legacy vanilla-JS file; not used by active React app
 
 ## How It Works
 
